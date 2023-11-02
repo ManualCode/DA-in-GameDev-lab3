@@ -62,7 +62,7 @@
 
 ## Задание 3
 ### Заполнить google-таблицу данными из Python. В Python данные также должны быть визуализированы.
-'''py
+```py
 import gspread
 import numpy as np
 import time
@@ -125,7 +125,7 @@ plt.bar(index+3*bw, l_chance, bw, color='yellow')
 plt.xticks(index+1.5*bw, np.arange(1,12))
 plt.xlabel("Уровень")
 plt.show()
-'''
+```
 ![image](https://github.com/ManualCode/DragonPicker-in-GameDev-lab3/assets/120582775/1461b710-ce6e-493b-bf49-9c23b6845d67)
 ![image](https://github.com/ManualCode/DragonPicker-in-GameDev-lab3/assets/120582775/b62305e2-cbbd-4409-8ea9-e7c5e59193e4)
 ![image](https://github.com/ManualCode/DragonPicker-in-GameDev-lab3/assets/120582775/14afa059-673f-4220-9b96-dd929ce98516)
