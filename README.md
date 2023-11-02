@@ -48,14 +48,17 @@
 
 Путём проб и ошибок, я подобрал значения переменных для самого сложного уровня и уже отталкиваясь от него нашел значения для предшествующих ему уровней
 Ссылка на google таблицу: https://docs.google.com/spreadsheets/d/1CNWxN388RsqgzYLJ6IshVzevfc4bHsYxXpPQe3js6-4/edit#gid=0
-![image](https://github.com/ManualCode/DragonPicker-in-GameDev-lab3/assets/120582775/f547ff81-7626-45c6-9a7e-3c2e764e2eac)
+![image](https://github.com/ManualCode/DragonPicker-in-GameDev-lab3/assets/120582775/af4fdc74-79e4-4c79-9f35-ab91a5d3bdd2)
+
 
 ## Задание 2
 ### Создайте 10 сцен на Unity с изменяющимся уровнем сложности.
 Ход работы:
 - Скачаем проект DrakonPicker и добавим в Unity
 - Я скопировал сцену и поменял переменные.
+
 Ссылка на репозиторий с проектом: https://github.com/ManualCode/DragonPickerGame
+
 
 ## Задание 3
 ### Заполнить google-таблицу данными из Python. В Python данные также должны быть визуализированы.
@@ -135,7 +138,9 @@ plt.show()
 
 ## Выводы
 
-Абзац умных слов о том, что было сделано и что было узнано.
+- Изучил прототип игры, выявил изменяющие переменные и заполнил таблицу
+- Разработал оптимальный баланс для десяти уровней игры Dragon Picker
+- Ещё раз заполнил таблицу с помощью Python
 
 | Plugin | README |
 | ------ | ------ |
