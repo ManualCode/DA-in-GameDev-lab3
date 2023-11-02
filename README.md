@@ -50,15 +50,12 @@
 Ссылка на google таблицу: https://docs.google.com/spreadsheets/d/1CNWxN388RsqgzYLJ6IshVzevfc4bHsYxXpPQe3js6-4/edit#gid=0
 ![image](https://github.com/ManualCode/DragonPicker-in-GameDev-lab3/assets/120582775/f547ff81-7626-45c6-9a7e-3c2e764e2eac)
 
-
-
-
-
 ## Задание 2
 ### Создайте 10 сцен на Unity с изменяющимся уровнем сложности.
 Ход работы:
 - Скачаем проект DrakonPicker и добавим в Unity
 - Я скопировал сцену и поменял переменные.
+Ссылка на репозиторий с проектом: https://github.com/ManualCode/DragonPickerGame
 
 ## Задание 3
 ### Заполнить google-таблицу данными из Python. В Python данные также должны быть визуализированы.
